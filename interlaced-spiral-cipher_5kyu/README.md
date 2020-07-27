@@ -1,0 +1,1 @@
+#https://www.codewars.com/kata/5a24a35a837545ab04001614

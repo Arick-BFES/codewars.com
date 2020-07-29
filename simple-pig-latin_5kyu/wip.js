@@ -10,6 +10,7 @@ function pigIt(str){
          if(x.length == 1 && RegExp(/[a-z]+/i).test(x)) b[a] = x + "ay"
     })
   return words.join(' ')
+
   }
 
 
